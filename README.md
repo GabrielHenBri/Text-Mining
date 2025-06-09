@@ -56,7 +56,7 @@ text-mining-googleplay/
 
 ## 📊 Exemplo de Resultado
 
-[!\[Gráfico de Sentimentos\](exemplo_grafico.png)](https://prnt.sc/0phepBbMXRNX)
+[!\[Gráfico de Sentimentos)](https://prnt.sc/0phepBbMXRNX)
 
 ---
 
