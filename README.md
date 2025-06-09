@@ -56,7 +56,7 @@ text-mining-googleplay/
 
 ## 📊 Exemplo de Resultado
 
-![Gráfico de Sentimentos](exemplo_grafico.png)
+[!\[Gráfico de Sentimentos\](exemplo_grafico.png)](https://prnt.sc/0phepBbMXRNX)
 
 ---
 
@@ -93,10 +93,3 @@ Disponível no Kaggle:
 [Google Play Store Reviews Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
 ---
-
-## 👨‍💻 Autor
-
-Gabriel Brigatto  
-📍 São Paulo, Brasil  
-📧 brigattogabriel@exemplo.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seuusuario)
