@@ -24,16 +24,6 @@ Este projeto realiza **mineração de texto** em avaliações de usuários da Go
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-text-mining-googleplay/
-│
-├── googleplaystore_user_reviews.csv  # Dataset de avaliações
-├── text_mining_googleplay.ipynb      # Notebook com código do projeto
-└── README.md                         # Descrição do projeto
-```
-
 ---
 
 ## 📝 Etapas do Projeto
