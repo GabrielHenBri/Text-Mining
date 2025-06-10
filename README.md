@@ -24,8 +24,6 @@ Este projeto realiza **mineração de texto** em avaliações de usuários da Go
 
 ---
 
----
-
 ## 📝 Etapas do Projeto
 
 1. **Coleta de Dados**
